@@ -58,7 +58,7 @@ public class MultipleValidations {
 
 	@AfterTest
 	public void closeBrowser() {
-		driver.close();
+		driver.close()
 	}
 
 }
